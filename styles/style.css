@@ -1,0 +1,111 @@
+.page-header-style {
+    background-color: rgb(50, 50, 50);
+}
+
+.my-logo-style {
+    background-color: mediumpurple;
+    padding-top: 9px;
+    padding-bottom: 10px;
+    padding-left: 14px;
+    padding-right: 15px;
+}
+
+.width-style-logo {
+    width: 702px;
+}
+
+.page-body-style {
+    background-color: rgb(222, 222, 222);
+    height: 100%;
+}
+
+.component-box-style {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.margin-top-title-style {
+    margin-top: 3px;
+}
+
+.font-size-title-style {
+    font-size: 20px;
+}
+
+.font-size-title-style1 {
+    font-size: 13px;
+}
+
+.text-day-box-style {
+    background-color: dimgrey;
+    border-radius: 7px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    padding-left: 14px;
+    padding-right: 15px;
+}
+
+.width-style-left-part {
+    width: 500px;
+}
+
+.padding-style-right-part {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 0px;
+}
+
+.margin-right-style-month {
+    margin-right: 25px;
+}
+
+.margin-right-style-week {
+    margin-right: 15px;
+}
+
+.bold-style {
+    font-weight: bold;
+}
+
+.margin-top-style-main-part {
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+.margin-right-style-avatar-user {
+    margin-right: 15px;
+}
+
+.margin-right-style-information-user {
+    margin-right: 50px;
+}
+
+.text-color-user-style {
+    color: rgb(100, 100, 100);
+}
+
+.user1-color-style {
+    color: mediumpurple;
+}
+
+.user2-color-style {
+    color: darkorange;
+}
+
+.user3-color-style {
+    color: tomato;
+}
+
+.user4-color-style {
+    color: mediumaquamarine;
+}
+
+.margins-style-user {
+    margin-top: 30px;
+}
+
+.paddings-component-style {
+    padding-top: 142px;
+    padding-bottom: 143px;
+}
